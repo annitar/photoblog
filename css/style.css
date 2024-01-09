@@ -44,10 +44,12 @@ body {
 
 .filter {
     color: var(--filter-color);
+    margin-bottom: 32px;
 }
 .title-card{
     font-size: 30px;
     color: var(--text-color);
+    margin-bottom: 40px;
 }
 .text{
     color: var(--text-color);
@@ -58,4 +60,18 @@ body {
     padding: 20px 49px;
     font-family: 'Playfair Display', serif;
     cursor: pointer;
+}
+.header{
+    padding-top: 71px;
+    padding-bottom: 92px;
+
+}
+.img-cards{
+    margin-bottom: 62px;
+}
+.item-cards{
+    margin-bottom: 130px;
+}
+.photo{
+    padding-bottom: 66px;
 }
