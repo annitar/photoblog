@@ -6,6 +6,12 @@
 }
 
 /*{}*/
+.container{
+    width:936px ;
+    padding:0 15px ;
+    margin:0 auto ;
+    border: 1px solid skyblue;
+}
 body {
     font-family: 'Playfair Display', serif;
     width: 936px;
