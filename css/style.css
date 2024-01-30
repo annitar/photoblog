@@ -34,6 +34,10 @@ body {
 
 .list-navigation {
     list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 555px;
+    margin: 0 auto;
 }
 
 .link-navigation:hover,
@@ -44,7 +48,8 @@ body {
 .cards {
     list-style: none;
     width: 420px;
-
+    display: flex;
+    flex-wrap: wrap;
 
 }
 
@@ -80,4 +85,12 @@ body {
 }
 .photo{
     padding-bottom: 66px;
+}
+.button-wrap{
+    display: flex;
+    justify-content: center;
+}
+.btn:hover,
+.btn:{
+    
 }
